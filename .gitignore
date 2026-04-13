@@ -1,0 +1,12 @@
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
+
+# MATLAB backup files (tilde backups)
+*~
+*.m~
+*.mat~
+*.fig~
+
+# MATLAB autosave files
+*.asv
